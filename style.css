@@ -57,9 +57,19 @@ margin-bottom: 0.9rem;
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 font-weight: 900;
-font-size: 2rem;
 line-height: 112%;
 margin-bottom: 0.9rem;
+	
+	/* Apply margin only on PC screens */
+    @media (min-width: 768px) {
+       font-size: 2rem;
+    }
+    
+    /* Apply margin only on mobile screens */
+    @media (max-width: 767px) {
+    font-size: 1rem;
+ 
+    }
 }
 
 .hero-p-text {
