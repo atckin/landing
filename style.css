@@ -47,7 +47,7 @@ a {
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 font-weight: 900;
-font-size: 8rem;
+font-size: 4.5rem;
 line-height: 112%;
 margin-bottom: 0.9rem;
 }
@@ -57,7 +57,7 @@ margin-bottom: 0.9rem;
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 font-weight: 900;
-font-size: 3rem;
+font-size: 2rem;
 line-height: 112%;
 margin-bottom: 0.9rem;
 }
