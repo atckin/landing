@@ -43,7 +43,7 @@ a {
 }
 
 .hero-banner-text {
-   background: linear-gradient(to right, #000000, #FFFFFF 70%);
+   background: linear-gradient(to right, #000000, #FFFFFF 50%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 font-weight: 900;
@@ -53,7 +53,7 @@ margin-bottom: 0.9rem;
 }
 
 .hero-banner-subtext {
-   background: linear-gradient(to right, #000000, #FFFFFF 70%);
+   background: linear-gradient(to right, #000000, #FFFFFF 50%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 font-weight: 900;
